@@ -1,16 +1,16 @@
-## Hi there 👋
+## Ciao! 👋
 
-<!--
-**mblc-7/mblc-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer (kind of?), and I had developed:
 
-Here are some ideas to get you started:
+* [ImPy](https://github.com/mblc-7/impy)
+* ifMC (still in development, haven't publish yet!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I love to do or look at 🤔
+
+* Vexillology 🏴
+* Geography 🌏
+* History 🕙
+* Coding 💻
+* Math 📘
+* Emoji 😂
+* Chemical 🧪
